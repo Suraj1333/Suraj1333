@@ -1,17 +1,20 @@
-# Hey there 👋
+# Hey there!
 I am Suraj Kandlakunta, a technology enthusiast with a knack for attention to detail. I love looking at things closely and paying attention to everything happening around me. If you want to talk about literally anything, hit me up. 
 
-<!--
-**Suraj1333/Suraj1333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+- 🔭 Anything about tech fascinates me. 
+- 🌱 I’m currently learning more about Frontend Development.
+- 💻 Visit me [here](https://suraj-kandlakunta.netlify.app/)
 
-Here are some ideas to get you started:
+# Skills 
+## Web Development 
+- HTML5, CSS3
+- Bootstrap
+- Tailwind 
+## Programming Languages 
+- JavaScript 
+## Others
+- Git
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
