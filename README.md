@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey there 👋
 I am Suraj Kandlakunta, a technology enthusiast with a knack for attention to detail. I love looking at things closely and paying attention to everything happening around me. If you want to talk about literally anything, hit me up. 
 
 <!--
