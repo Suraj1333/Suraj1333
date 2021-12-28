@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Suraj Kandlakunta, a technology enthusiast with a knack for attention to detail. I love looking at things closely and paying attention to everything happening around me. If you want to talk about literally anything, hit me up. 
+
 <!--
 **Suraj1333/Suraj1333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
