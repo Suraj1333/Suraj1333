@@ -4,7 +4,7 @@ I am Suraj Kandlakunta, a technology enthusiast with a knack for attention to de
 ## About Me
  🔭 Anything about tech fascinates me. <br>
  🌱 I’m currently learning more about Frontend Development. <br>
- 💻 Visit me <a href="https://suraj-kandlakunta.netlify.app/" target="_blank">here.</a> <br>
+ 💻 Visit me <a href="https://suraj-kandlakunta.netlify.app/" target="_blank" >here.</a> <br>
 
 ## Skills 
 
